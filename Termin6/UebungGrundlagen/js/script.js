@@ -154,7 +154,6 @@ function Aufgabe21(){
         ["Tom", "Brady"]
     ]
     for(let i = 0; i<=arr.length-1; i++){
-        console.log(i)
         console.log(arr[i][0] + " " + arr[i][1])
     }
 }
